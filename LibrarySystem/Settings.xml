@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<setting>
+  <username>
+    guest
+  </username>
+  <password>
+    guest
+  </password>
+  <fine>
+    1
+  </fine>
+  <daysallowed>
+    7
+  </daysallowed>
+  <maxbookallowed>
+    3
+  </maxbookallowed>
+</setting>
